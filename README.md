@@ -14,15 +14,14 @@ The zip folder contains the following files:
 This project uses the following open-source NLP tools for named entity recognition (NER):
 
 - **spaCy**:
-  
   https://spacy.io  
  
 
-- **Stanza**  
+- **Stanza**:
   https://stanfordnlp.github.io/stanza/  
  
 
-- **GLiNER**  
+- **GLiNER**:
   https://github.com/urchade/GLiNER  
 
 
